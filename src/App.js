@@ -53,9 +53,9 @@ function App() {
             <div className="wind">
               {data.wind ? <p className='bold'>{data.wind.speed.toFixed()} MPH</p> : null}
               <p>Wind Speed</p>
-            </div>
+            </div>  
           </div>
-        }
+        } 
 
 
 
@@ -68,7 +68,7 @@ export default App;
 
 
 
-
+//l
 
 
 
